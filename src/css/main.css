@@ -209,7 +209,7 @@ header .main ul li a.active {
 }
 
 .ad {
-    display: none;
+    /* display: none; */
 }
 
 .feature {
@@ -754,3 +754,7 @@ footer p {
         line-height: 2rem;
     }
 }
+
+/* 打印样式 */
+
+@media print {}
